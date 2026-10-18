@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kevin1024/vcrpy/commit/13904ec42934d610d05fd6af9a0f44a58934d71d",
       "git:hexsha": "13904ec42934d610d05fd6af9a0f44a58934d71d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:23:51.417611+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kevin1024/vcrpy/commit/4894cb7e22b81e8c95ae3a3e35b565ddc1c7863f",
